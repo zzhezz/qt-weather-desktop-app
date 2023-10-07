@@ -13,7 +13,8 @@ Introducing the Qt/C++ based desktop weather forecast app, inspired by the sleek
 
 ### Screenshot
 
-![image-20231007165027690](C:\Users\zzhez\AppData\Roaming\Typora\typora-user-images\image-20231007165027690.png)
+![image](https://github.com/zzhezz/qt-weather-desktop-app/assets/77932544/00063394-9130-4fb3-8fa3-c669a1399f39)
+
 
 ### Reflections
 
